@@ -1,12 +1,14 @@
 # Enasis Network Ansible Internal Collection
 
-> :warning: This project has not released its first major version.
+> This project has not released its first major version.
 
-Project for executing the Ansible playbooks for system automation.
+> This collection is only a placeholder for the moment.
 
-## Playbooks and roles within project
-- `enasis` Tasks specifically only for Enasis Network.
-- `robert` Tasks specifically only for Robert Harris.
+Ansible content specific for Robert Harris and the Enasis Network.
+
+Check out this collection on
+[Ansible Galaxy](https://galaxy.ansible.com/ui/repo/published/enasisnetwork/internal)
+for more information.
 
 ## Quick start for local development
 Start by cloning the repository to your local machine.

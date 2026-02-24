@@ -1,0 +1,7 @@
+Name                             Stmts   Miss  Cover
+----------------------------------------------------
+collection/__init__.py               0      0   100%
+collection/tests/__init__.py         0      0   100%
+collection/tests/test_empty.py       1      0   100%
+----------------------------------------------------
+TOTAL                                1      0   100%

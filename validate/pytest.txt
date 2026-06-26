@@ -3,7 +3,7 @@
 ============================= test session starts ==============================
 platform linux -- Python 3.12.13, pytest-9.1.1, pluggy-1.6.0 -- /home/runner/work/ansible-internal/ansible-internal/main/.venv-package/bin/python3
 cachedir: .pytest_cache
-Using --randomly-seed=2303420039
+Using --randomly-seed=2200878020
 ansible: 2.21.1
 rootdir: /home/runner/work/ansible-internal/ansible-internal/main
 configfile: setup.cfg
@@ -26,7 +26,7 @@ collection/tests/__init__.py         0      0   100%
 collection/tests/test_empty.py       1      0   100%
 ----------------------------------------------------
 TOTAL                                1      0   100%
-============================== 1 passed in 1.35s ===============================
+============================== 1 passed in 1.31s ===============================
     DONE
   ● Write coveragepy output to htmlcov..
     DONE
